@@ -1,0 +1,29 @@
+---
+layout: base.njk
+---
+
+<main class="article-container">
+
+<article class="article">
+
+  <h1>{{ title }}</h1>
+
+  {% if date %}
+  <p class="meta">
+    Publicado el {{ date | date }}
+  </p>
+  {% endif %}
+
+  {% if image %}
+  <figure class="article-image">
+    <img src="{{ image }}" alt="{{ title }}">
+  </figure>
+  {% endif %}
+
+  <div class="article-content">
+    {{ content | safe }}
+  </div>
+
+</article>
+
+</main>

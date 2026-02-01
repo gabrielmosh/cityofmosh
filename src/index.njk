@@ -1,0 +1,19 @@
+---
+layout: base.njk
+title: "City of Mosh"
+---
+
+<main class="container">
+<section class="grid">
+
+{% for post in collections.portada | reverse %}
+<article class="card">
+  <a href="{{ post.url }}">
+    <img src="{{ post.data.image }}" alt="{{ post.data.title }}">
+    <h2>{{ post.data.title }}</h2>
+  </a>
+</article>
+{% endfor %}
+
+</section>
+</main>
