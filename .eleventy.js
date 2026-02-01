@@ -14,6 +14,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    emptyOutputPath: true,
     dir: {
       input: "src",
       output: "public",
