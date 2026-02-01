@@ -2,7 +2,7 @@
 title: "Otra Salida y Worst juntos por primera vez"
 date: 2026-02-01
 layout: article.njk
-image: "/flyers/2026otrasalidaworst.jpg"
+image: "/flyers/2026-otrasalidaworst.jpg"
 tags: portada
 ---
 

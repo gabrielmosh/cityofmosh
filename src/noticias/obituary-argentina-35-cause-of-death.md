@@ -6,7 +6,8 @@ image: "/flyers/2026-obituary.jpg"
 tags: portada
 ---
 
-La legendaria banda de death metal **Obituary** regresa a Argentina para celebrar los 35 años de su clásico álbum **Cause Of Death**.
+**Obituary**, la legendaria banda de death metal, regresa a la Argentina para celebrar los 35 años de su clásico álbum **Cause Of Death**.
+Lanzado en septiembre de 1990, el segundo disco de la banda es uno de los pilares fundamentales del death metal de Florida.
 
 La cita tendrá lugar el 18 de febrero en El Teatrito (Sarmiento 1752, CABA).
 
