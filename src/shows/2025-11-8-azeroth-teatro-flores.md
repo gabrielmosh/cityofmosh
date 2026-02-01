@@ -3,7 +3,6 @@ title: "Azeroth en el Teatro Flores"
 date: 2026-01-15
 layout: article.njk
 image: "/flyers/slayer2026.jpg"
-tags: portada
 type: show
 ---
 

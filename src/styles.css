@@ -29,7 +29,7 @@ body {
 }
 
 .logo img {
-  height: 32px;
+  height: 74px;
   width: auto;
 }
 
@@ -50,8 +50,6 @@ body {
 .nav a:hover {
   color: #e10600; /* rojo metal */
 }
-
-
 
 /* Contenedor general */
 .container {
@@ -130,3 +128,13 @@ body {
   margin-bottom: 16px;
   line-height: 1.6;
 }
+
+a {
+  color: #e10600; /* rojo metal */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff2a1f; /* rojo más claro al pasar el mouse */
+}
+
