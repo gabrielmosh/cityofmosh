@@ -3,6 +3,7 @@ module.exports = function (eleventyConfig) {
   // Copiar assets tal cual
   eleventyConfig.addPassthroughCopy("src/styles.css");
   eleventyConfig.addPassthroughCopy("src/flyers");
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   // ✅ AGREGAMOS EL FILTRO DATE (esto es lo que te falta)
   eleventyConfig.addFilter("date", function (value, format = "dd 'de' MMMM 'de' yyyy") {
