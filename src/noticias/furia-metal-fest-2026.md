@@ -7,7 +7,8 @@ tags: portada
 ---
 
 
-Vuelve 
+Vuelve el FMF 
 
 
-https://www.passline.com/eventos/furia-metal-fest-2026-462970
+https://www.passline.com/eventos/furia-metal-fest-2026-462970https://www.passline.com/eventos/furia-metal-fest-2026-462970
+
