@@ -7,15 +7,15 @@ tags: portada
 ---
 
 Llega la quinta edición del festival independiente de metal más grande de Argentina.
-Tres días con más de 30 bandas en vivo, zona de acampe, puestos de comida, ferias, merchandising y más.
+Tres días con más de 40 bandas en vivo, zona de acampe en la costa del Río Paraná, puestos de comida, ferias, merchandising y más.
 
 **Bandas por día**
 
-Día 1: LORIHEN - AVERNAL - CABEZONES - AZEROTH - LARRY ZAVALA y más
+Día 1: Lörihen, Avernal, Cabezones, Azeroth, Larry Zavala, Eterminio, Matan S.A., Born of the Kraken, Grela, Primitive, Metralleta, Drama Season, Viscerius, Ermitaños.
 
-Día 2: MALON - V.I.D.A - TREN LOCO - NO GUERRA - LAZARO y más
+Día 2: Malón, V.I.D.A., Tren Loco, No Guerra, Lázaro, In-Dios, Muñeki77a, Orbe, Barfael, Engendro, Evilution, Infex, Viejos Asuntos, Zarkas.
 
-Día 3: HORCAS - LETHAL - PLAN 4 - CONTRACULTURA - CHEWELCHE y más
+Día 3: Horcas, Lethal, Plan Cuatro, Contracultura, Chewelche, Bastardös, Aura, Después del Caos, Turkos, Monje, Deathmian, Noosfera, Car Kit Silver, Vivenmueren, Erabus.
 
 
 **Fecha:** 14, 15 y 16 de febrero (fin de semana largo de carnaval)

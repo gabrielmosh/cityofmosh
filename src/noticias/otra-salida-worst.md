@@ -6,7 +6,7 @@ image: "/flyers/2026-otrasalidaworst.jpg"
 tags: portada
 ---
 
-**Otra Salida** y **Worst** en Salón Pueyrredón.
+**Otra Salida** y **Worst** en Salón Pueyrredón (Avenida Santa Fe 4560, CABA).
 
 Por primera vez juntas en Argentina, las dos bestias del hardcore sudamericano.
 
