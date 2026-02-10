@@ -139,3 +139,13 @@ a:hover {
   color: #ff2a1f; /* rojo más claro al pasar el mouse */
 }
 
+
+blockquote {
+  margin: 30px 0;
+  padding: 20px 25px;
+  background-color: #1a1a1a; /* Un gris muy oscuro */
+  border-left: 4px solid #e11d48; /* Una barra roja vibrante (muy metalera) */
+  font-style: italic;
+  color: #d1d1d1;
+  line-height: 1.6;
+}
