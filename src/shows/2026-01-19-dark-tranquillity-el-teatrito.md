@@ -13,8 +13,9 @@ La primera dio inicio con **Punish My Heaven** y les fueron pegando temas de ese
 Luego llegó el turno de festejar Character. Hicieron seis canciones de ese disco, mención especial al gran clásico **Lost to Apathy** que hizo que la gente poguee como nunca.  
 Para el tercer acto dejaron clásicos como **ThereIn** y **Terminus**, intercalados con algunos temas de su última placa, **Endtime Signals**.
 
-Cuando parecía que cerraban con **Misery's Crown**, metieron un homenaje a **Tomas Lindberg** (cantante de **At The Gates**, fallecido el 16 de septiembre de 2025) haciendo **Blinded By Fear**
-A **Mikael Stanne** se lo notó muy emocionado, estuvo varios minutos contemplando al público y al borde de las lágrimas mientras el resto de la banda saludaba al público.
+Cuando parecía que cerraban con **Misery's Crown**, metieron un homenaje a **Tomas Lindberg** (cantante de **At The Gates**, fallecido el 16 de septiembre de 2025) haciendo **Blinded By Fear**.
+
+A **Mikael Stanne** se lo notó muy emocionado por este homenaje. Estuvo varios minutos contemplando al público en silencio y al borde de las lágrimas mientras el resto de la banda se despedía.
 
 Dark Tranquillity nunca decepciona. Tercera vez que los veo y cada día suenan mejor.  
 
