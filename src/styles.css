@@ -139,7 +139,6 @@ a:hover {
   color: #ff2a1f; /* rojo más claro al pasar el mouse */
 }
 
-
 blockquote {
   margin: 30px 0;
   padding: 20px 25px;
@@ -148,4 +147,43 @@ blockquote {
   font-style: italic;
   color: #d1d1d1;
   line-height: 1.6;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0; /* Un poco más de aire arriba y abajo */
+}
+
+.video-container iframe {
+  /* En desktop usamos el alto como referencia para mantener la proporción */
+  height: 75vh;       /* Ocupa el 75% del alto de la pantalla */
+  aspect-ratio: 9/16; /* Mantiene la forma vertical automáticamente */
+  width: auto;        /* El ancho se calcula solo gracias al aspect-ratio */
+  
+  max-height: 800px;  /* Para que no se vaya de mambo en monitores gigantes */
+  border-radius: 16px;
+  border: 1px solid #444;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5); /* Le da profundidad */
+}
+
+/* Ajuste para tablets y celulares */
+@media (max-width: 768px) {
+  .video-container iframe {
+    height: 65vh; /* Un poco más chico en tablets */
+  }
+}
+
+/* Ajuste para celulares chicos */
+@media (max-width: 480px) {
+  .video-container iframe {
+    width: 100%;  /* Ocupa todo el ancho */
+    height: auto; 
+    aspect-ratio: 9/16;
+  }
+}
+
+main ul {
+  margin-left: 35px;   /* Ajustá este valor a tu gusto */
+  margin-bottom: 10px; /* Espacio abajo de la lista */
 }
