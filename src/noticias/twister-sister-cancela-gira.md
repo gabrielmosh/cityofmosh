@@ -2,7 +2,7 @@
 title: "Twisted Sister cancela su gira de reunión por problemas de salud de Dee Snider"
 date: 2026-02-06
 layout: article.njk
-image: "/images/news/twisted-sister-50-aniversario.jpg"
+image: "/assets/images/news/twisted-sister-50-aniversario.jpg"
 tags: portada
 ---
 

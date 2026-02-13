@@ -2,7 +2,7 @@
 title: "Esta es la nueva formación de Nevermore"
 date: 2026-02-12
 layout: article.njk
-image: "/images/news/nevermore-nueva-formacion.jpg"
+image: "/assets/images/news/nevermore-nueva-formacion.jpg"
 tags: portada
 ---
 

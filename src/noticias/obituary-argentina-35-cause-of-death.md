@@ -2,7 +2,7 @@
 title: "Obituary regresa a la Argentina para celebrar los 35 años de 'Cause Of Death'"
 date: 2026-02-11
 layout: article.njk
-image: "/flyers/2026-obituary.jpg"
+image: "/assets/images/flyers/2026-obituary.jpg"
 tags: portada
 ---
 

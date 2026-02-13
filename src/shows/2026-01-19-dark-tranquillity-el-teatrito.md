@@ -2,7 +2,7 @@
 title: "Cobertura: Dark Tranquillity en El Teatrito (19-1-2026)"
 date: 2026-01-22
 layout: article.njk
-image: "/images/shows/dt-2016.jpg"
+image: "/assets/images/shows/dt-2016.jpg"
 tags: portada
 ---
 

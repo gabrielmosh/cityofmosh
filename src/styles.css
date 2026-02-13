@@ -214,3 +214,11 @@ main ul {
   margin: 5px 0;         /* Espacio pequeño entre líneas de texto */
   opacity: 0.7;          /* Para que no brille tanto y sea discreto */
 }
+
+/* Esto afecta a todas las imágenes que pongas dentro de tus artículos */
+main img {
+  display: block;
+  max-width: 100%; 
+  height: auto;
+  
+}
