@@ -10,5 +10,5 @@ Hace 56 años, un 13 de febrero de 1970 salía el disco más importante de nuest
 
 Y el que incluye mi tema favorito: **Black Sabbath**
 
-![meme](/images/memes/blacksabbath-bs-bs.jpg)
+![meme](/assets/images/memes/blacksabbath-bs-bs.jpg)
 
