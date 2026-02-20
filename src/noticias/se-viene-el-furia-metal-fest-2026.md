@@ -2,7 +2,7 @@
 title: "Se viene el Furia Metal Fest 2026"
 date: 2026-02-02
 layout: article.njk
-image: "/assets/images/flyers/2026-furia.jpg"
+image: "/assets/images/flyers/2026/2026-furia.jpg"
 tags: portada
 ---
 
