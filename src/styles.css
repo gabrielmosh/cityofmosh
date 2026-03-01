@@ -152,7 +152,7 @@ blockquote {
 .video-container {
   display: flex;
   justify-content: center;
-  margin: 40px 0; /* Un poco más de aire arriba y abajo */
+  margin: 10px 0; /* Un poco más de aire arriba y abajo */
 }
 
 .video-container iframe {
