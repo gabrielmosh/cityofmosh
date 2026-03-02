@@ -152,7 +152,7 @@ blockquote {
 .video-container {
   display: flex;
   justify-content: center;
-  margin: 10px 0; /* Un poco más de aire arriba y abajo */
+  margin: 10px 0; /* Un poco más de aire arriba y abajo */  
 }
 
 .video-container iframe {
@@ -188,7 +188,7 @@ blockquote {
   padding-bottom: 56.25%; /* Relación de aspecto 16:9 */
   height: 0;
   overflow: hidden;
-  margin: 30px 0;
+  margin: 10px 0;
   border-radius: 8px;
   border: 1px solid #333;
 }
