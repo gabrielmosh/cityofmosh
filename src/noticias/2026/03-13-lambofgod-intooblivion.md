@@ -1,5 +1,5 @@
 ---
-title: "Lamb Of God - Into Oblivion"
+title: "Lanzamiento: Lamb Of God - Into Oblivion"
 date: 2026-03-13
 layout: article.njk
 image: "/assets/images/albums/lambofgod-intooblivion.webp"

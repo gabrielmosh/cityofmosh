@@ -1,5 +1,5 @@
 ---
-title: "Exodus - Goliath"
+title: "Lanzamiento: Exodus - Goliath"
 date: 2026-03-20
 layout: article.njk
 image: "/assets/images/albums/exodus-goliath.jpg"
