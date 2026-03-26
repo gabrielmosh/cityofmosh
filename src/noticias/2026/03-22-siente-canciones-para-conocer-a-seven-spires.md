@@ -32,6 +32,8 @@ Un tema más progresivo y lírico, con un ritmo muy rockero.
 **"Dare to Live"**  
 Heavy metal más directo con un gran estribillo.
 
+Pueden encontrar la playlist acá: [music.youtube.com](https://music.youtube.com/playlist?list=PLvOrp4Ns06FzJSf2vqAuDQicRH0sAV0GK&si=pOY4ioc8N7mLN6Gs)
+
 **Seven Spires** se presenta el martes 21/4 en Uniclub (Guardia Vieja 3360, CABA)
 Bandas invitadas: **InnerForce** & **Intrascendence** (Chile) 
 
