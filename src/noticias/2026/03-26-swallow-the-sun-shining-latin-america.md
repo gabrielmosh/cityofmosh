@@ -1,28 +1,23 @@
 ---
-title: "Beyond Creation y Fallujah juntos en Latinoamérica"
-date: 2026-03-05
+title: "Swallow The Sun: Shining Over Latin America"
+date: 2026-03-26
 layout: article.njk
-image: "/assets/images/flyers/2026/beyondcreation-fallujah-latam.jpg"
+image: "/assets/images/flyers/2026/swallowthesun-latam.jpg"
 tags: portada
 ---
-Prepárense!  
-Porque del 19 de abril al 3 de mayo **BEYOND CREATION** realizará una nueva gira por Latinoamérica.
-Y con un invitado muy especial: **FALLUJAH**
+**SWALLOW THE SUN**, la banda finlandesa de death doom melódico, regresa a latinoamérica después su última visita en 2023.
 
-Dos bandas de detah metal tecnico al precio de una (ponele 😝)
+Vienen a presentar **Shining**, su más reciente trabajo.
 
-Beyond Creation viene a festejar los 15 años de **The Aura**, su primer disco.  
-Y Fallujah visita por primera vez la región para presentar **Xenotaph**, su más reciente trabajo.
+Las fechas confirmadas hasta ahora son:
 
-Las fechas confirmadas hasta el momento son:
-
-* 19 de abril – San José, Costa Rica
-* 20 de abril – Bogotá, Colombia
-* 22 de abril – Buenos Aires, Argentina
-* 23 de abril – São Paulo, Brasil
-* 24 de abril – Santiago, Chile
-* 26 de abril – Monterrey, México
-* 29 de abril – León, México
-* 30 de abril – Guadalajara, México
-* 1 de mayo – Aguascalientes, México
-* 3 de mayo – Ciudad de México, México
+* Aug 11 — São Paulo, Brazil — Hangar 110
+* Aug 13 — Buenos Aires, Argentina — El Teatrito
+* Aug 14 — Santiago, Chile — Club Blondie
+* Aug 16 — Bogotá, Colombia — Ace of Spades
+* Aug 18 — San Salvador, El Salvador — Simmer Down
+* Aug 19 — Guadalajara, Mexico — Foro Independencia
+* Aug 20 — Monterrey, Mexico — Nodriza Estudio
+* Aug 21 — San Luis Potosí, Mexico — Búnker
+* Aug 22 — Chihuahua, Mexico — TBA
+* Aug 23 — Mexico City, Mexico — Hendrix Bar
