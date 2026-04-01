@@ -14,7 +14,7 @@ ABRIL
 * 22/4 - Beyond Creation / Fallujah @ Teatro Flores
 * 23/4 - Feuerschwanz @ El Teatrito
 * 23/4 - Lucifer @ Uniclub
-* 24/4 - Disinthr @ Gier
+* 24/4 - Disinter @ Gier
 * 24/4 - Amaranthe @ El Teatrito
 * 25/4 - Rage @ Teatro Flores
 * 26/4 - Fear Factory @ Groove
