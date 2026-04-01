@@ -9,17 +9,23 @@ ABRIL
 
 * 2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia
 * 4/4 - Nebiros @ Pana Rock
+* 16/4 - Primal Fear @ Teatro Flores
 * 19/4 - In Flames @ Teatro Flores
+* 19/4 - Mike Vescera @ Galpón B
 * 21/4 - Seven Spires @ Uniclub
+* 21/4 - Adrian Smith / Richie Kotzen @ Teatro Flores
 * 22/4 - Beyond Creation / Fallujah @ Teatro Flores
 * 23/4 - Feuerschwanz @ El Teatrito
 * 23/4 - Lucifer @ Uniclub
+* 24/4 - Dream Theater @ Movistar Arena
 * 24/4 - Disinter @ Gier
 * 24/4 - Amaranthe @ El Teatrito
 * 25/4 - Rage @ Teatro Flores
 * 26/4 - Fear Factory @ Groove
 * 27/4 - Jinjer @ Teatro Flores
 * 27/4 - Tankard @ El Teatrito
+* 27/4 - Black Label Society @ Groove
+* 28/4 - Black Label Society @ Teatro Flores
 * 30/4 - Megadeth @ Tecnópolis
 
 <!--
