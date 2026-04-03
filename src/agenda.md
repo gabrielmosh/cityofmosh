@@ -7,7 +7,7 @@ tags: agenda
 
 ABRIL
 
-* 2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia
+* ~~2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia~~
 * 4/4 - Nebiros @ Pana Rock
 * 16/4 - Primal Fear @ Teatro Flores
 * 19/4 - In Flames @ Teatro Flores
@@ -28,11 +28,12 @@ ABRIL
 * 28/4 - Black Label Society @ Teatro Flores
 * 30/4 - Megadeth @ Tecnópolis
 
-<!--
+
 MAYO 
 
-1/5 - Midnight @ C. C. Bula
-3/5 - Bane
+* 1/5 - Midnight @ C. C. Bula
+* 3/5 - Bane / Stick To Your Guns @ Uniclub
+<!--
 9/5 - Nocturnal 
 10/5 - Vader @ Marquee Session Live
 17/5 - Draconian @ Teatro Flores
