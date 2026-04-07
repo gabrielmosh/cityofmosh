@@ -8,7 +8,7 @@ tags: agenda
 ABRIL
 
 * ~~2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia~~
-* 4/4 - Nebiros @ Pana Rock
+* ~~4/4 - Nebiros @ Pana Rock~~
 * 16/4 - Primal Fear @ Teatro Flores
 * 19/4 - In Flames @ Teatro Flores
 * 19/4 - Mike Vescera @ Galpón B
@@ -18,7 +18,7 @@ ABRIL
 * 23/4 - Feuerschwanz @ El Teatrito
 * 23/4 - Lucifer @ Uniclub
 * 24/4 - Dream Theater @ Movistar Arena
-* 24/4 - Disinter @ Gier
+* 24/4 - Disinter @ Gier Music Club
 * 24/4 - Amaranthe @ El Teatrito
 * 25/4 - Rage @ Teatro Flores
 * 26/4 - Fear Factory @ Groove
@@ -33,11 +33,12 @@ MAYO
 
 * 1/5 - Midnight @ C. C. Bula
 * 3/5 - Bane / Stick To Your Guns @ Uniclub
+* 9/5 - Nocturnal @ Gier Music Club
+* 10/5 - Vader @ Marquee Session Live
+* 17/5 - Draconian @ Teatro Flores
+* 17/5 - Cult Of Fire @ Uniclub
+
 <!--
-9/5 - Nocturnal 
-10/5 - Vader @ Marquee Session Live
-17/5 - Draconian @ Teatro Flores
-17/5 - Cult Of Fire
 22/5 - The Amity Affliction
 30/5 - Kampfar
 
