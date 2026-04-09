@@ -5,7 +5,7 @@ layout: article.njk
 image: "/assets/images/albums/warning-ritualsofshame.webp"
 tags: portada
 ---
-Hermosa jornada para que la banda de doom metal **Warning** saque un adelanto de lo que será su próximo disco, el primero en 20 años.
+Hermosa jornada para que la banda de doom metal **Warning** saque un adelanto de lo que será su próximo disco, 20 años después de ***Watching from a Distance***.
 
 El tema se llama ***Stations*** y pertenece al álbum ***Rituals of Shame***, que saldrá el 19 de junio.
 
