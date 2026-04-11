@@ -9,7 +9,7 @@ ABRIL
 
 * ~~2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia~~
 * ~~4/4 - Nebiros @ Pana Rock~~
-* 16/4 - Primal Fear @ Teatro Flores
+* 16/4 - Primal Fear / Jeriko / Tren Loco @ Teatro Flores
 * 19/4 - In Flames @ Teatro Flores
 * 19/4 - Mike Vescera @ Galpón B
 * 21/4 - Seven Spires @ Uniclub
@@ -61,6 +61,7 @@ AGOSTO
 * 13/8 - Swallow The Sun @ El Teatrito
 * 16/8 - Pentagram @ Uniclub
 * 25/8 - Memphis May Fire / Blessthefall @ Teatro Flores
+* 29/8 - Sanctuary @ El Teatrito
 
 
 SEPTIEMBRE
