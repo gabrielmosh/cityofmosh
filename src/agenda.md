@@ -52,7 +52,7 @@ JUNIO
 
 JULIO
 
-* 10/7 - Havok @ ???
+* 10/7 - Havok @ The Roxy Live
 * 14/7 - Liv Kristine @ Marquee Session Live
 * 17/7 - Riot V @ El Teatrito
 
@@ -77,7 +77,7 @@ SEPTIEMBRE
 * 29/9 - Sonata Arctica @ Teatro Flores
 
 
-*Last update: 11-4-2026*
+*Last update: 13-4-2026*
 <!--
 
 OCTUBRE
