@@ -21,7 +21,7 @@ ABRIL
 * 24/4 - Dream Theater @ Movistar Arena
 * 24/4 - Disinter @ Gier Music Club
 * 24/4 - Amaranthe / Visions of Atlantis @ El Teatrito
-* 25/4 - Rage @ Teatro Flores
+* ~~25/4 - Rage @ Teatro Flores~~ (CANCELADO)
 * 26/4 - Fear Factory @ Groove
 * 27/4 - Jinjer @ Teatro Flores
 * 27/4 - Tankard @ El Teatrito
@@ -77,7 +77,7 @@ SEPTIEMBRE
 * 29/9 - Sonata Arctica @ Teatro Flores
 
 
-*Last update: 13-4-2026*
+*Last update: 14-4-2026*
 <!--
 
 OCTUBRE
