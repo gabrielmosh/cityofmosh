@@ -30,7 +30,7 @@ ABRIL
 * 30/4 - Megadeth @ Tecnópolis
 
 
-MAYO 
+MAYO
 
 * 1/5 - Midnight @ C. C. Bula
 * 1/5 - Dirkschneider @ El Teatrito
@@ -52,6 +52,7 @@ JUNIO
 
 JULIO
 
+* 10/7 - Havok @ ???
 * 14/7 - Liv Kristine @ Marquee Session Live
 * 17/7 - Riot V @ El Teatrito
 
@@ -69,14 +70,19 @@ SEPTIEMBRE
 * 9/9 - Bloodbath / Nervochaos @ Arena Sur
 * 11/9 - The Haunted @ Uniclub
 * 13/9 - Helloween @ Movistar Arena
+* 17/9 - Lifelover @ El Teatrito
 * 17/9 - Left To Die @ Uniclub
 * 20/9 - Left To Die @ Casa Babylon, Córdoba
 * 24/9 - Old Man's Child @ Uniclub
 * 29/9 - Sonata Arctica @ Teatro Flores
 
+
+*Last update: 11-4-2026*
 <!--
 
 OCTUBRE
+13/10 - Amorphis @ El Teatrito
+16/10 - Roy Khan @ El Teatrito
 18/10 - After Forever @ Teatro Flores
 20/10 - Iron Maiden @ Huracan
 21/10 - Iron Maiden @ Huracan
@@ -86,7 +92,7 @@ OCTUBRE
 
 NOVIEMBRE
 14/11 - Nocturnal Depression
-
+20/11 - Saratoga
 
 DICIEMBRE
 4/12 - Dying Fetus
