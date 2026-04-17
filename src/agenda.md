@@ -9,10 +9,10 @@ ABRIL
 
 * ~~2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia~~
 * ~~4/4 - Nebiros @ Pana Rock~~
-* 16/4 - Primal Fear / Jeriko / Tren Loco @ Teatro Flores
+* ~~16/4 - Primal Fear / Jeriko / Tren Loco @ Teatro Flores~~
 * 19/4 - In Flames @ Teatro Flores
 * 19/4 - Mike Vescera @ Galpón B
-* 21/4 - Seven Spires @ Uniclub
+* 21/4 - Seven Spires @ C. C. BULA
 * 21/4 - Adrian Smith / Richie Kotzen @ Teatro Flores
 * 22/4 - Beyond Creation / Fallujah @ Teatro Flores
 * 22/4 - Bad Religion @ Estadio Malvinas Argentinas
