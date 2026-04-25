@@ -10,19 +10,18 @@ ABRIL
 * ~~2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia~~
 * ~~4/4 - Nebiros @ Pana Rock~~
 * ~~16/4 - Primal Fear / Jeriko / Tren Loco @ Teatro Flores~~
-* 19/4 - In Flames @ Teatro Flores
-* 19/4 - Mike Vescera @ Galpón B
-* 21/4 - Seven Spires @ C. C. BULA
-* 21/4 - Adrian Smith / Richie Kotzen @ Teatro Flores
-* 22/4 - Beyond Creation / Fallujah @ Teatro Flores
-* 22/4 - Bad Religion @ Estadio Malvinas Argentinas
-* 23/4 - Feuerschwanz @ El Teatrito
-* 23/4 - Lucifer @ Uniclub
+* ~~19/4 - In Flames @ Teatro Flores~~
+* ~~19/4 - Mike Vescera @ Galpón B~~
+* ~~21/4 - Seven Spires @ C. C. BULA~~
+* ~~21/4 - Adrian Smith / Richie Kotzen @ Teatro Flores~~
+* ~~22/4 - Beyond Creation / Fallujah @ Teatro Flores~~
+* ~~22/4 - Bad Religion @ Estadio Malvinas Argentinas~~
+* ~~23/4 - Feuerschwanz @ El Teatrito~~
+* ~~23/4 - Lucifer @ Uniclub~~
 * 24/4 - Dream Theater @ Movistar Arena
 * 24/4 - Disinter @ Gier Music Club
 * 24/4 - Amaranthe / Visions of Atlantis @ El Teatrito
 * ~~25/4 - Rage @ Teatro Flores~~ (CANCELADO)
-* 26/4 - Fear Factory @ Groove
 * 27/4 - Jinjer @ Teatro Flores
 * 27/4 - Tankard @ El Teatrito
 * 27/4 - Black Label Society @ Groove
@@ -54,6 +53,7 @@ JULIO
 
 * 10/7 - Havok @ The Roxy Live
 * 14/7 - Liv Kristine @ Marquee Session Live
+* 16/7 - Fear Factory @ Groove
 * 17/7 - Riot V @ El Teatrito
 
 
