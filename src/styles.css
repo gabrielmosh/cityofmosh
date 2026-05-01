@@ -226,3 +226,23 @@ main img {
   height: auto;
   
 }
+
+details {
+    background: #1a1a1a; /* Un tono oscuro para ir con la onda metalera */
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+
+summary {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #ff0000; /* Color de acento */
+    outline: none;
+}
+
+details[open] summary {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #333;
+}

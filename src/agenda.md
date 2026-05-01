@@ -5,7 +5,8 @@ layout: article.njk
 tags: agenda
 ---
 
-ABRIL
+<details>
+  <summary>ABRIL</summary>
 
 * ~~2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia~~
 * ~~4/4 - Nebiros @ Pana Rock~~
@@ -18,21 +19,23 @@ ABRIL
 * ~~22/4 - Bad Religion @ Estadio Malvinas Argentinas~~
 * ~~23/4 - Feuerschwanz @ El Teatrito~~
 * ~~23/4 - Lucifer @ Uniclub~~
-* 24/4 - Dream Theater @ Movistar Arena
-* 24/4 - Disinter @ Gier Music Club
-* 24/4 - Amaranthe / Visions of Atlantis @ El Teatrito
+* ~~24/4 - Dream Theater @ Movistar Arena~~
+* ~~24/4 - Disinter @ Gier Music Club~~
+* ~~24/4 - Amaranthe / Visions of Atlantis @ El Teatrito~~
 * ~~25/4 - Rage @ Teatro Flores~~ (CANCELADO)
-* 27/4 - Jinjer @ Teatro Flores
-* 27/4 - Tankard @ El Teatrito
-* 27/4 - Black Label Society @ Groove
-* 28/4 - Black Label Society @ Teatro Flores
-* 30/4 - Megadeth @ Tecnópolis
+* ~~27/4 - Jinjer @ Teatro Flores~~
+* ~~27/4 - Tankard @ El Teatrito~~
+* ~~27/4 - Black Label Society @ Groove~~
+* ~~28/4 - Black Label Society @ Teatro Flores~~
+* ~~30/4 - Megadeth @ Tecnópolis~~
 
+</details>
 
-MAYO
+<details open>
+<summary>MAYO</summary>
 
 * 1/5 - Midnight @ C. C. Bula
-* 1/5 - Dirkschneider @ El Teatrito
+* 1/5 - Dirkschneider @ Teatro Flores
 * 3/5 - Bane / Stick To Your Guns @ Uniclub
 * 9/5 - Nocturnal @ Gier Music Club
 * 10/5 - Vader @ Marquee Session Live
@@ -43,29 +46,37 @@ MAYO
 * 26/5 - Drowning Pool @ Teatro Vorterix
 * 30/5 - Kampfar @ Uniclub
 
+</details>
 
-JUNIO
+<details open>
+<summary>JUNIO</summary>
 
 * 2/6 - Tygers of Pan Tang @ Uniclub
 
+</details>
 
-JULIO
+<details open>
+<summary>JULIO</summary>
 
 * 10/7 - Havok @ The Roxy Live
 * 14/7 - Liv Kristine @ Marquee Session Live
 * 16/7 - Fear Factory @ Groove
 * 17/7 - Riot V @ El Teatrito
 
+</details>
 
-AGOSTO
+<details open>
+<summary>AGOSTO</summary>
 
 * 13/8 - Swallow The Sun @ El Teatrito
 * 16/8 - Pentagram @ Uniclub
 * 25/8 - Memphis May Fire / Blessthefall @ Teatro Flores
 * 29/8 - Sanctuary @ El Teatrito
 
+</details>
 
-SEPTIEMBRE
+<details open>
+<summary>SEPTIEMBRE</summary>
 
 * 9/9 - Bloodbath / Nervochaos @ Arena Sur
 * 11/9 - The Haunted @ Uniclub
@@ -76,8 +87,9 @@ SEPTIEMBRE
 * 24/9 - Old Man's Child @ Uniclub
 * 29/9 - Sonata Arctica @ Teatro Flores
 
+</details>
 
-*Last update: 14-4-2026*
+*Last update: 1-5-2026*
 <!--
 
 OCTUBRE
@@ -87,14 +99,17 @@ OCTUBRE
 20/10 - Iron Maiden @ Huracan
 21/10 - Iron Maiden @ Huracan
 22/10 - Fit For A King @ El Teatrito
+27/10 - Six Feet Under
 30/10 - Benediction
 
 
 NOVIEMBRE
 14/11 - Nocturnal Depression
 20/11 - Saratoga
+28/11 - A Perfect Circle
 
 DICIEMBRE
 4/12 - Dying Fetus
+10/12 - Deep Purple
 
 -->
