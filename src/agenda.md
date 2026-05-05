@@ -34,9 +34,9 @@ tags: agenda
 <details open>
 <summary>MAYO</summary>
 
-* 1/5 - Midnight @ C. C. Bula
-* 1/5 - Dirkschneider @ Teatro Flores
-* 3/5 - Bane / Stick To Your Guns @ Uniclub
+* ~~1/5 - Midnight @ C. C. Bula~~
+* ~~1/5 - Dirkschneider @ Teatro Flores~~
+* ~~3/5 - Bane / Stick To Your Guns @ Uniclub~~
 * 9/5 - Nocturnal @ Gier Music Club
 * 10/5 - Vader @ Marquee Session Live
 * 10/5 - Korn @ Parque Sarmiento
@@ -62,6 +62,7 @@ tags: agenda
 * 14/7 - Liv Kristine @ Marquee Session Live
 * 16/7 - Fear Factory @ Groove
 * 17/7 - Riot V @ El Teatrito
+* 22/7 - Hirax @ Uniclub
 
 </details>
 
@@ -89,7 +90,7 @@ tags: agenda
 
 </details>
 
-*Last update: 1-5-2026*
+*Last update: 3-5-2026*
 <!--
 
 OCTUBRE
@@ -99,8 +100,8 @@ OCTUBRE
 20/10 - Iron Maiden @ Huracan
 21/10 - Iron Maiden @ Huracan
 22/10 - Fit For A King @ El Teatrito
-27/10 - Six Feet Under
-30/10 - Benediction
+27/10 - Six Feet Under @ El Teatrito
+30/10 - Benediction @ Uniclub
 
 
 NOVIEMBRE
