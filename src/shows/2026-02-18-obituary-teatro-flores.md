@@ -3,7 +3,7 @@ title: "Cobertura: Obituary en el Teatro Flores (18-2-2026)"
 date: 2026-02-20
 layout: article.njk
 image: "/assets/images/shows/2026/obituary-flores.jpg"
-tags: portada
+tags: ["portada", "cobertura"]
 ---
 Con la excusa de festejar los 35 años de **Cause of Death**, los nativos de la península de Florida realizaron una extensa gira por latam.  
 El miércoles 18 de febrero tocaron en Buenos Aires, más precisamente en el Teatro Flores.

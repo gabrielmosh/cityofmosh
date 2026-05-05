@@ -3,7 +3,7 @@ title: "Video: Avernal en Uniclub (20-2-2026)"
 date: 2026-02-25
 layout: article.njk
 image: "/assets/images/shows/2026/avernal-uniclub-2026.jpg"
-tags: portada
+tags: ["portada", "cobertura"]
 ---
 
 Primera fecha del año Avernal en CABA.  

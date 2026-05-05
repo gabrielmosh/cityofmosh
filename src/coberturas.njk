@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: "Coberturas de Shows"
+permalink: "/coberturas/"
+---
+
+<main class="container">
+  <h1>Coberturas de Shows</h1>
+  <section class="grid">
+
+  {% for post in collections.cobertura | reverse %}
+    <article class="card">
+      <a href="{{ post.url }}">
+        {% if post.data.image %}
+          <img src="{{ post.data.image }}" alt="{{ post.data.title }}">
+        {% endif %}
+        <h2>{{ post.data.title }}</h2>
+      </a>
+    </article>
+  {% endfor %}
+
+  </section>
+</main>

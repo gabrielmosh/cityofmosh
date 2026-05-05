@@ -3,7 +3,7 @@ title: "Cobertura: Dark Tranquillity en El Teatrito (19-1-2026)"
 date: 2026-01-22
 layout: article.njk
 image: "/assets/images/shows/2026/dt-2026.jpg"
-tags: portada
+tags: ["portada", "cobertura"]
 ---
 
 Lunes a la noche en Buenos Aires y un Teatrito casi colmado estaba listo para recibir a los suecos. Esta vez vinieron para celebrar dos de sus mejores discos: **The Gallery** y **Character**, que cumplian 30 y 20 años respectivamente.
