@@ -90,20 +90,23 @@ tags: agenda
 
 </details>
 
+<details open>
+<summary>OCTUBRE</summary>
+
+* 13/10 - Amorphis @ El Teatrito
+* 16/10 - Roy Khan @ El Teatrito
+* 18/10 - After Forever @ Teatro Flores
+* 20/10 - Iron Maiden @ Huracan
+* 21/10 - Iron Maiden @ Huracan
+* 22/10 - Fit For A King @ El Teatrito
+* 27/10 - Six Feet Under @ El Teatrito
+* 30/10 - Benediction @ Uniclub
+
+</details>
+
 *Last update: 3-5-2026*
+
 <!--
-
-OCTUBRE
-13/10 - Amorphis @ El Teatrito
-16/10 - Roy Khan @ El Teatrito
-18/10 - After Forever @ Teatro Flores
-20/10 - Iron Maiden @ Huracan
-21/10 - Iron Maiden @ Huracan
-22/10 - Fit For A King @ El Teatrito
-27/10 - Six Feet Under @ El Teatrito
-30/10 - Benediction @ Uniclub
-
-
 NOVIEMBRE
 14/11 - Nocturnal Depression
 20/11 - Saratoga
