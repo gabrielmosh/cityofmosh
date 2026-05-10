@@ -1,5 +1,5 @@
 ---
-title: "Agenda"
+title: "Agenda internacional"
 date: 2026-04-01
 layout: article.njk
 tags: agenda
@@ -37,7 +37,7 @@ tags: agenda
 * ~~1/5 - Midnight @ C. C. Bula~~
 * ~~1/5 - Dirkschneider @ Teatro Flores~~
 * ~~3/5 - Bane / Stick To Your Guns @ Uniclub~~
-* 9/5 - Nocturnal @ Gier Music Club
+* ~~9/5 - Nocturnal @ Gier Music Club~~
 * 10/5 - Vader @ Marquee Session Live
 * 10/5 - Korn @ Parque Sarmiento
 * 17/5 - Draconian @ Teatro Flores
@@ -113,6 +113,7 @@ NOVIEMBRE
 28/11 - A Perfect Circle
 
 DICIEMBRE
+1/12 - Testament / Municipal Waste / Immolation @ Teatro Flores
 4/12 - Dying Fetus
 10/12 - Deep Purple
 
