@@ -38,8 +38,8 @@ tags: agenda
 * ~~1/5 - Dirkschneider @ Teatro Flores~~
 * ~~3/5 - Bane / Stick To Your Guns @ Uniclub~~
 * ~~9/5 - Nocturnal @ Gier Music Club~~
-* 10/5 - Vader @ Marquee Session Live
-* 10/5 - Korn @ Parque Sarmiento
+* ~~10/5 - Vader @ Marquee Session Live~~
+* ~~10/5 - Korn @ Parque Sarmiento~~
 * 17/5 - Draconian @ Teatro Flores
 * 17/5 - Cult Of Fire @ Uniclub
 * 22/5 - The Amity Affliction @ Uniclub
@@ -104,7 +104,7 @@ tags: agenda
 
 </details>
 
-*Last update: 3-5-2026*
+*Last update: 12-5-2026*
 
 <!--
 NOVIEMBRE
