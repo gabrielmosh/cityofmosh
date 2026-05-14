@@ -43,7 +43,7 @@ tags: agenda
 * 17/5 - Draconian @ Teatro Flores
 * 17/5 - Cult Of Fire @ Uniclub
 * 22/5 - The Amity Affliction @ Uniclub
-* 26/5 - Drowning Pool @ Teatro Vorterix
+* ~~26/5 - Drowning Pool @ Teatro Vorterix~~ _(cancelado)_
 * 30/5 - Kampfar @ Uniclub
 
 </details>
