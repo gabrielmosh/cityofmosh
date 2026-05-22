@@ -22,7 +22,7 @@ tags: agenda
 * ~~24/4 - Dream Theater @ Movistar Arena~~
 * ~~24/4 - Disinter @ Gier Music Club~~
 * ~~24/4 - Amaranthe / Visions of Atlantis @ El Teatrito~~
-* ~~25/4 - Rage @ Teatro Flores~~ (CANCELADO)
+* ~~25/4 - Rage @ Teatro Flores~~ _(cancelado)_
 * ~~27/4 - Jinjer @ Teatro Flores~~
 * ~~27/4 - Tankard @ El Teatrito~~
 * ~~27/4 - Black Label Society @ Groove~~
@@ -40,8 +40,8 @@ tags: agenda
 * ~~9/5 - Nocturnal @ Gier Music Club~~
 * ~~10/5 - Vader @ Marquee Session Live~~
 * ~~10/5 - Korn @ Parque Sarmiento~~
-* 17/5 - Draconian @ Teatro Flores
-* 17/5 - Cult Of Fire @ Uniclub
+* ~~17/5 - Draconian @ Teatro Flores~~
+* ~~17/5 - Cult Of Fire @ Uniclub~~
 * 22/5 - The Amity Affliction @ Uniclub
 * ~~26/5 - Drowning Pool @ Teatro Vorterix~~ _(cancelado)_
 * 30/5 - Kampfar @ Uniclub
@@ -60,6 +60,7 @@ tags: agenda
 
 * 10/7 - Havok @ The Roxy Live
 * 14/7 - Liv Kristine @ Marquee Session Live
+* 14/7 - Pestilence @ Uniclub
 * 16/7 - Fear Factory @ Groove
 * 17/7 - Riot V @ El Teatrito
 * 22/7 - Hirax @ Uniclub
@@ -99,12 +100,15 @@ tags: agenda
 * 20/10 - Iron Maiden @ Huracan
 * 21/10 - Iron Maiden @ Huracan
 * 22/10 - Fit For A King @ El Teatrito
+* 22/10 - Zakk Sabbath @ Teatro Flores
+* 22/10 - Apocalyptica @ Groove
+* 22/10 - Alter Bridge @ Groove
 * 27/10 - Six Feet Under @ El Teatrito
 * 30/10 - Benediction @ Uniclub
 
 </details>
 
-*Last update: 12-5-2026*
+*Last update: 22-5-2026*
 
 <!--
 NOVIEMBRE
