@@ -38,7 +38,7 @@ El punto más alto de la noche fue "Seasons Apart", que cuenta con ese estribill
 No siempre se puede tener el privilegio de poder asistir a un concierto donde la banda viene a presentarte un disco recién salido que sea posiblemente el mejor de su carrera, con músicos que están todos en un momento excelente. 
 Quizás por la catarata de shows que tuvimos en abril, o porque estas propuestas son muy de nicho, la respuesta de público fue moderada. Lo más importante es que los fanáticos de la banda que se acercaron este domingo otoñal se fueron con una sonrisa de oreja a oreja por el excelente show que presenciaron.
 
-Muchas gracias nwmproductions, gabysistipress
+Muchas gracias a [@gabysistipress](https://www.instagram.com/gabysistipress/) por permitirnos cubrir este show.
 
 Setlist:
 
