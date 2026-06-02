@@ -31,7 +31,7 @@ tags: agenda
 
 </details>
 
-<details open>
+<details>
 <summary>MAYO</summary>
 
 * ~~1/5 - Midnight @ C. C. Bula~~
@@ -42,16 +42,16 @@ tags: agenda
 * ~~10/5 - Korn @ Parque Sarmiento~~
 * ~~17/5 - Draconian @ Teatro Flores~~
 * ~~17/5 - Cult Of Fire @ Uniclub~~
-* 22/5 - The Amity Affliction @ Uniclub
+* ~~22/5 - The Amity Affliction @ Uniclub~~
 * ~~26/5 - Drowning Pool @ Teatro Vorterix~~ _(cancelado)_
-* 30/5 - Kampfar @ Uniclub
+* ~~30/5 - Kampfar @ Uniclub~~
 
 </details>
 
 <details open>
 <summary>JUNIO</summary>
 
-* 2/6 - Tygers of Pan Tang @ Uniclub
+* 2/6 - Tygers of Pan Tang @ C. C. BULA
 
 </details>
 
@@ -80,7 +80,7 @@ tags: agenda
 <details open>
 <summary>SEPTIEMBRE</summary>
 
-* 9/9 - Bloodbath / Nervochaos @ Arena Sur
+* 9/9 - Bloodbath / Nervochaos @ Uniclub
 * 11/9 - The Haunted @ Uniclub
 * 13/9 - Helloween @ Movistar Arena
 * 17/9 - Lifelover @ El Teatrito
@@ -108,7 +108,7 @@ tags: agenda
 
 </details>
 
-*Last update: 22-5-2026*
+*Last update: 1-6-2026*
 
 <!--
 NOVIEMBRE
@@ -120,5 +120,6 @@ DICIEMBRE
 1/12 - Testament / Municipal Waste / Immolation @ Teatro Flores
 4/12 - Dying Fetus
 10/12 - Deep Purple
+14/12 - Slayer / Kreator / Avernal @ Movistar Arena
 
 -->
