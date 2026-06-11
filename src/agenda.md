@@ -48,10 +48,10 @@ tags: agenda
 
 </details>
 
-<details open>
+<details>
 <summary>JUNIO</summary>
 
-* 2/6 - Tygers of Pan Tang @ C. C. BULA
+* ~~2/6 - Tygers of Pan Tang @ C. C. BULA~~
 
 </details>
 
@@ -103,15 +103,25 @@ tags: agenda
 * 22/10 - Zakk Sabbath @ Teatro Flores
 * 22/10 - Apocalyptica @ Groove
 * 22/10 - Alter Bridge @ Groove
+* 23/10 - Malevolent Creation / Mystic Circle @ El Teatrito
 * 27/10 - Six Feet Under @ El Teatrito
 * 30/10 - Benediction @ Uniclub
 
 </details>
 
-*Last update: 1-6-2026*
+<details open>
+<summary>NOVIEMBRE</summary>
+
+* 14/11 - Nocturnal Depression @ Uniclub
+* 14/11 - Warhammer @ Club Cultural Bula
+
+</details>
+
+*Last update: 11-6-2026*
+
+
 
 <!--
-NOVIEMBRE
 14/11 - Nocturnal Depression
 20/11 - Saratoga
 28/11 - A Perfect Circle
@@ -121,5 +131,13 @@ DICIEMBRE
 4/12 - Dying Fetus
 10/12 - Deep Purple
 14/12 - Slayer / Kreator / Avernal @ Movistar Arena
+
+ENERO 2027
+29/1 - Crashdiet @ El Teatrito
+
+ABRIL 2027
+22/4 - Quiet Riot @ Teatro Flores
+25/4 - Floor Jansen @ Teatro Flores
+
 
 -->
