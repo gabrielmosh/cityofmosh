@@ -12,8 +12,7 @@ Estos son algunos de los nombres que se presentan en el **HELLFEST** de este añ
 
 * [Playlist HELLFEST 2026](https://www.youtube.com/playlist?list=PL66OD4JjS_2PQTMDC3jP1iZJx30dG2Eia)
 
-Comparto la grilla completa en horario argentino (GMT-3).
-Comparto la grilla completa en horario argentino (GMT-3).
+Comparto la grilla completa en horario de Argentina (GMT-3).
 
 **Jueves 18 de Junio**  
 12:30 – 13:10 – The Plot In You (YouTube Live / Arte.tv)  
