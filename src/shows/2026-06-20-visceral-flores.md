@@ -1,5 +1,5 @@
 ---
-title: "Video: Visceral en el Teatro Flores (25-6-2026)"
+title: "Video: Visceral en el Teatro Flores (20-6-2026)"
 date: 2026-06-24
 layout: article.njk
 image: "/assets/images/shows/2026/visceral-flores.jpg"
