@@ -3,7 +3,7 @@ title: "Masters of Voices se muda a The Roxy Live"
 date: 2026-07-02
 layout: article.njk
 image: "/assets/images/flyers/2026/masters-of-voices.jpg"
-tags: portada
+tags: 
 ---
 
 Cuatro de las voces más colosales, influyentes y respetadas de la historia del rock pesado y el metal internacional se reunirán sobre un mismo escenario en Buenos Aires para dar vida a un hito sónico sin precedentes.  
