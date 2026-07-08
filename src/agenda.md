@@ -94,6 +94,7 @@ tags: agenda
 <details open>
 <summary>OCTUBRE</summary>
 
+* 3/10 - High On Fire @ Uniclub
 * 13/10 - Amorphis @ El Teatrito
 * 16/10 - Roy Khan @ El Teatrito
 * 18/10 - After Forever @ Teatro Flores
@@ -114,16 +115,15 @@ tags: agenda
 
 * 14/11 - Nocturnal Depression @ Uniclub
 * 14/11 - Warhammer @ Club Cultural Bula
-
+* 20/11 - Saratoga @ El Teatrito
 </details>
 
-*Last update: 11-6-2026*
+*Last update: 28-6-2026*
 
 
 
 <!--
-14/11 - Nocturnal Depression
-20/11 - Saratoga
+
 28/11 - A Perfect Circle
 
 DICIEMBRE
@@ -133,11 +133,13 @@ DICIEMBRE
 14/12 - Slayer / Kreator / Avernal @ Movistar Arena
 
 ENERO 2027
+29/1 - Hellripper @ Uniclub
 29/1 - Crashdiet @ El Teatrito
 
 ABRIL 2027
 22/4 - Quiet Riot @ Teatro Flores
 25/4 - Floor Jansen @ Teatro Flores
 
+EPICA?
 
 -->
