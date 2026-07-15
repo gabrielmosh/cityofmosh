@@ -58,9 +58,9 @@ tags: agenda
 <details open>
 <summary>JULIO</summary>
 
-* 10/7 - Havok @ The Roxy Live
+* ~~10/7 - Havok @ The Roxy Live~~
 * 14/7 - Liv Kristine @ Marquee Session Live
-* 14/7 - Pestilence @ Uniclub
+* 14/7 - Pestilence @ Club Cultural BULA
 * 16/7 - Fear Factory @ Groove
 * 17/7 - Riot V @ El Teatrito
 * 22/7 - Hirax @ Uniclub
@@ -70,6 +70,7 @@ tags: agenda
 <details open>
 <summary>AGOSTO</summary>
 
+* 7/8 - Dr Chud's @ Arkham
 * 13/8 - Swallow The Sun @ El Teatrito
 * 16/8 - Pentagram @ Uniclub
 * 25/8 - Memphis May Fire / Blessthefall @ Teatro Flores
@@ -95,6 +96,7 @@ tags: agenda
 <summary>OCTUBRE</summary>
 
 * 3/10 - High On Fire @ Uniclub
+* 6/10 - Sepultura @ C Art Media
 * 13/10 - Amorphis @ El Teatrito
 * 16/10 - Roy Khan @ El Teatrito
 * 18/10 - After Forever @ Teatro Flores
@@ -115,10 +117,11 @@ tags: agenda
 
 * 14/11 - Nocturnal Depression @ Uniclub
 * 14/11 - Warhammer @ Club Cultural Bula
+* 15/11 - Opera IX @ Marquee Session Live
 * 20/11 - Saratoga @ El Teatrito
 </details>
 
-*Last update: 28-6-2026*
+*Last update: 14-7-2026*
 
 
 
