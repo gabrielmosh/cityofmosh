@@ -59,10 +59,10 @@ tags: agenda
 <summary>JULIO</summary>
 
 * ~~10/7 - Havok @ The Roxy Live~~
-* 14/7 - Liv Kristine @ Marquee Session Live
-* 14/7 - Pestilence @ Club Cultural BULA
-* 16/7 - Fear Factory @ Groove
-* 17/7 - Riot V @ El Teatrito
+* ~~14/7 - Liv Kristine @ Marquee Session Live~~
+* ~~14/7 - Pestilence @ Club Cultural BULA~~
+* ~~16/7 - Fear Factory @ Groove~~
+* ~~17/7 - Riot V @ El Teatrito~~
 * 22/7 - Hirax @ Uniclub
 
 </details>
@@ -83,6 +83,7 @@ tags: agenda
 
 * 9/9 - Bloodbath / Nervochaos @ Uniclub
 * 11/9 - The Haunted @ Uniclub
+* 11/9 - Celeste @ Club Cultural BULA
 * 13/9 - Helloween @ Movistar Arena
 * 17/9 - Lifelover @ El Teatrito
 * 17/9 - Left To Die @ Uniclub
@@ -119,9 +120,10 @@ tags: agenda
 * 14/11 - Warhammer @ Club Cultural Bula
 * 15/11 - Opera IX @ Marquee Session Live
 * 20/11 - Saratoga @ El Teatrito
+* 25/11 - My Dying Bride @ El Teatrito
 </details>
 
-*Last update: 14-7-2026*
+*Last update: 20-7-2026*
 
 
 

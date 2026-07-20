@@ -136,12 +136,13 @@ body {
 }
 
 a {
-  color: #e10600; /* rojo metal */
+  color: #c94442; /* El rojo exacto de tu logo */
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #ff2a1f; /* rojo más claro al pasar el mouse */
+  color: #d8312e;
 }
 
 blockquote {
