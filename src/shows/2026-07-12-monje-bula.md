@@ -1,6 +1,6 @@
 ---
 title: "Video: Monje en C. C. BULA (12-7-2026)"
-date: 2026-07-19
+date: 2026-07-18
 layout: article.njk
 image: "/assets/images/shows/2026/monje-bula.jpg"
 tags: ["portada", "cobertura"]

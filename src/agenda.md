@@ -63,7 +63,6 @@ tags: agenda
 * ~~14/7 - Pestilence @ Club Cultural BULA~~
 * ~~16/7 - Fear Factory @ Groove~~
 * ~~17/7 - Riot V @ El Teatrito~~
-* 22/7 - Hirax @ Uniclub
 
 </details>
 
@@ -73,6 +72,7 @@ tags: agenda
 * 7/8 - Dr Chud's @ Arkham
 * 13/8 - Swallow The Sun @ El Teatrito
 * 16/8 - Pentagram @ Uniclub
+* 22/8 - Angra @ Arena Sur
 * 25/8 - Memphis May Fire / Blessthefall @ Teatro Flores
 * 29/8 - Sanctuary @ El Teatrito
 

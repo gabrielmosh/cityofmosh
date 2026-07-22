@@ -1,6 +1,6 @@
 ---
 title: "Cobertura: Liv Kristine en Marquee Session Live (14-7-2026)"
-date: 2026-07-20
+date: 2026-07-19
 layout: article.njk
 image: "/assets/images/shows/2026/livkristine.webp"
 tags: ["portada", "cobertura"]
