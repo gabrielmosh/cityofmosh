@@ -1,5 +1,5 @@
 ---
-title: "Falleció Pato Strunz"
+title: "Falleció el Pato Strunz"
 date: 2026-07-20
 layout: article.njk
 image: "/assets/images/news/pato-strunz.jpg"
