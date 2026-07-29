@@ -100,6 +100,7 @@ tags: agenda
 * 6/10 - Sepultura @ C Art Media
 * 13/10 - Amorphis @ El Teatrito
 * 16/10 - Roy Khan @ El Teatrito
+* 16/10 - Gruesome @ El Teatrito
 * 18/10 - After Forever @ Teatro Flores
 * 20/10 - Iron Maiden @ Huracan
 * 21/10 - Iron Maiden @ Huracan
@@ -123,7 +124,7 @@ tags: agenda
 * 25/11 - My Dying Bride @ El Teatrito
 </details>
 
-*Last update: 20-7-2026*
+*Last update: 29-7-2026*
 
 
 
@@ -138,7 +139,7 @@ DICIEMBRE
 14/12 - Slayer / Kreator / Avernal @ Movistar Arena
 
 ENERO 2027
-29/1 - Hellripper @ Uniclub
+19/1 - Hellripper @ Uniclub
 29/1 - Crashdiet @ El Teatrito
 
 ABRIL 2027
