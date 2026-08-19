@@ -9,10 +9,12 @@ tags: agenda
 <summary>AGOSTO</summary>
 
 * ~~7/8 - Dr Chud's @ Arkham~~
-* 13/8 - Squad Bowels @ Gier
-* 13/8 - Swallow The Sun @ El Teatrito
-* 16/8 - Pentagram @ Uniclub
+* ~~13/8 - Squad Bowels @ Gier~~
+* ~~13/8 - Swallow The Sun @ El Teatrito~~
+* ~~16/8 - Pentagram @ Uniclub~~
+* ~~17/8 - Pentagram @ Club Cultural BULA~~
 * 22/8 - Angra @ Arena Sur
+* 22/8 - Undercroft @ Arkham
 * 25/8 - Memphis May Fire / Blessthefall @ Teatro Flores
 * 29/8 - Sanctuary @ El Teatrito
 
@@ -25,8 +27,8 @@ tags: agenda
 * 11/9 - The Haunted @ Uniclub
 * 11/9 - Celeste @ Club Cultural BULA
 * 13/9 - Helloween @ Movistar Arena
-* 17/9 - Left To Die @ Uniclub
 * 17/9 - Lifelover @ El Teatrito
+* 17/9 - Left To Die @ Uniclub
 * 20/9 - Left To Die @ Casa Babylon, Córdoba
 * 24/9 - Old Man's Child @ Uniclub
 * 29/9 - Sonata Arctica @ Teatro Flores
