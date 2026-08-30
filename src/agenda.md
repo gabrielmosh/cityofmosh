@@ -6,30 +6,17 @@ tags: agenda
 ---
 
 <details open>
-<summary>AGOSTO</summary>
-
-* ~~7/8 - Dr Chud's @ Arkham~~
-* ~~13/8 - Squad Bowels @ Gier~~
-* ~~13/8 - Swallow The Sun @ El Teatrito~~
-* ~~16/8 - Pentagram @ Uniclub~~
-* ~~17/8 - Pentagram @ Club Cultural BULA~~
-* 22/8 - Angra @ Arena Sur
-* 22/8 - Undercroft @ Arkham
-* 25/8 - Memphis May Fire / Blessthefall @ Teatro Flores
-* 29/8 - Sanctuary @ El Teatrito
-
-</details>
-
-<details open>
 <summary>SEPTIEMBRE</summary>
 
 * 9/9 - Bloodbath / Nervochaos @ Uniclub
 * 11/9 - The Haunted @ Uniclub
 * 11/9 - Celeste @ Club Cultural BULA
+* 12/9 - Beto Zamarbide @ Groove
 * 13/9 - Helloween @ Movistar Arena
 * 17/9 - Lifelover @ El Teatrito
-* 17/9 - Left To Die @ Uniclub
-* 20/9 - Left To Die @ Casa Babylon, Córdoba
+* 17/9 - Left To Die @ Uniclub, CABA
+* 18/9 - Left To Die @ Que Sea Rock, Rosario
+* 20/9 - Left To Die @ Casa Babylon Club, Córdoba
 * 24/9 - Old Man's Child @ Uniclub
 * 29/9 - Sonata Arctica @ Teatro Flores
 
@@ -44,6 +31,7 @@ tags: agenda
 * 13/10 - Amorphis @ El Teatrito
 * 16/10 - Roy Khan @ El Teatrito
 * 16/10 - Gruesome @ Uniclub
+* 17/10 - Ancestral Malediction @ Gier Music Club
 * 18/10 - After Forever @ Teatro Flores
 * 18/10 - Hellbutcher @ Uniclub
 * 20/10 - Iron Maiden @ Huracan
@@ -77,6 +65,7 @@ tags: agenda
 
 * 1/12 - Testament / Municipal Waste / Immolation @ Teatro Flores
 * 4/12 - Dying Fetus @ El Teatrito
+* 8/12 - Myrath @ Arena Sur
 * 10/12 - Deep Purple @ Movistar Arena
 * 14/12 - Slayer / Kreator / Avernal @ Movistar Arena
 * 16/12 - Ellende / Thyrfing @ Uniclub
@@ -85,6 +74,22 @@ tags: agenda
 </details>
 
 *Anteriores*
+
+<details>
+<summary>AGOSTO 26</summary>
+
+* ~~7/8 - Dr Chud's @ Arkham~~
+* ~~13/8 - Squad Bowels @ Gier~~
+* ~~13/8 - Swallow The Sun @ El Teatrito~~
+* ~~16/8 - Pentagram @ Uniclub~~
+* ~~17/8 - Pentagram @ Club Cultural BULA~~
+* ~~22/8 - Angra @ Arena Sur~~
+* ~~22/8 - Undercroft @ Arkham~~
+* ~~25/8 - Memphis May Fire / Blessthefall @ Teatro Flores~~
+* ~~29/8 - Sanctuary @ El Teatrito~~
+
+</details>
+
 
 <details>
 <summary>JULIO 26</summary>
@@ -156,7 +161,7 @@ ENERO 2027
 29/1 - Crashdiet @ El Teatrito
 
 FEBRERO 2027
-5/2 - Motification @ Uniclub
+5/2 - Mortification @ Uniclub
 17/2 - Alcest @ Uniclub
 18/2 - Hirax @ Uniclub
 27/2 - Eleine @ El Teatrito
@@ -164,6 +169,7 @@ FEBRERO 2027
 ABRIL 2027
 22/4 - Quiet Riot @ Teatro Flores
 25/4 - Floor Jansen @ Teatro Flores
+26/4 - KK's Priest / Tailgunner @ Teatro Flores
 
 MAYO 2027
 4/5 - Soen?
