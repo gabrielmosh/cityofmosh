@@ -24,7 +24,7 @@ Sonaron clásicos como "No Mercy", "Blood Supply" y "Stumpers"", y lo mejor lleg
 Está claro que la ausencia de uno de los integrantes no fue el escenario ideal. Pero siempre será preferible que una banda que salga a tocar y mantenga viva una gira antes que una cancelación de último momento.  
 Al salir del recinto de Colegiales, la gente se iba contenta. Para muchos, fue una oportunidad única de ver a una banda de culto del estilo.
 
-Muchas gracias a [@metaleterno](https://www.instagram.com/metaleterno/) por la invitación.
+Agradacemos a [@metaleterno](https://www.instagram.com/metaleterno/) por la invitación.
 
 <br>
 Video:

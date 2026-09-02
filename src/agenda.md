@@ -41,6 +41,7 @@ tags: agenda
 * 22/10 - Apocalyptica @ Groove
 * 22/10 - Alter Bridge @ Groove
 * 23/10 - Malevolent Creation / Mystic Circle @ El Teatrito
+* 25/10 - Dethklok @ El Teatrito
 * 27/10 - Six Feet Under @ El Teatrito
 * 30/10 - Benediction @ Uniclub
 
@@ -67,6 +68,7 @@ tags: agenda
 * 4/12 - Dying Fetus @ El Teatrito
 * 8/12 - Myrath @ Arena Sur
 * 10/12 - Deep Purple @ Movistar Arena
+* 10/12 - Slaughter To Previal @ Groove
 * 14/12 - Slayer / Kreator / Avernal @ Movistar Arena
 * 16/12 - Ellende / Thyrfing @ Uniclub
 * 19/12 - Luciferian @ Club V
