@@ -32,7 +32,7 @@ tags: agenda
 * 16/10 - Roy Khan @ El Teatrito
 * 16/10 - Gruesome @ Uniclub
 * 17/10 - Ancestral Malediction @ Gier Music Club
-* 18/10 - After Forever @ Teatro Flores
+* ~~18/10 - After Forever @ Teatro Flores~~ _(cancelado)_
 * 18/10 - Hellbutcher @ Uniclub
 * 20/10 - Iron Maiden @ Huracan
 * 21/10 - Iron Maiden @ Huracan
