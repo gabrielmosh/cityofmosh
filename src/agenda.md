@@ -37,9 +37,10 @@ tags: agenda
 * 20/10 - Iron Maiden @ Huracan
 * 21/10 - Iron Maiden @ Huracan
 * 22/10 - Fit For A King @ El Teatrito
-* 22/10 - Zakk Sabbath @ Teatro Flores
 * 22/10 - Apocalyptica @ Groove
 * 22/10 - Alter Bridge @ Groove
+* 22/10 - Zakk Sabbath @ Teatro Flores
+* 23/10 - Zakk Sabbath @ Teatro Flores
 * 23/10 - Malevolent Creation / Mystic Circle @ El Teatrito
 * 25/10 - Dethklok @ El Teatrito
 * 27/10 - Six Feet Under @ El Teatrito
