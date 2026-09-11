@@ -8,7 +8,7 @@ tags: agenda
 <details open>
 <summary>SEPTIEMBRE</summary>
 
-* 9/9 - Bloodbath / Nervochaos @ Uniclub
+* ~~9/9 - Bloodbath / Nervochaos @ Uniclub~~
 * 11/9 - The Haunted @ Uniclub
 * 11/9 - Celeste @ Club Cultural BULA
 * 12/9 - Beto Zamarbide @ Groove
