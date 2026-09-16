@@ -9,10 +9,10 @@ tags: agenda
 <summary>SEPTIEMBRE</summary>
 
 * ~~9/9 - Bloodbath / Nervochaos @ Uniclub~~
-* 11/9 - The Haunted @ Uniclub
-* 11/9 - Celeste @ Club Cultural BULA
-* 12/9 - Beto Zamarbide @ Groove
-* 13/9 - Helloween @ Movistar Arena
+* ~~11/9 - The Haunted @ Uniclub~~
+* ~~11/9 - Celeste @ Club Cultural BULA~~
+* ~~12/9 - Beto Zamarbide @ Groove~~
+* ~~13/9 - Helloween @ Movistar Arena~~
 * 17/9 - Lifelover @ El Teatrito
 * 17/9 - Left To Die @ Uniclub, CABA
 * 18/9 - Left To Die @ Que Sea Rock, Rosario
