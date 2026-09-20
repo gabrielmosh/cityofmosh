@@ -53,7 +53,7 @@ tags: agenda
 
 * 3/11 - Opeth @ Teatro Gran Rivadavia
 * 14/11 - Nocturnal Depression @ Uniclub
-* 14/11 - Warhammer @ Club Cultural BULA
+* ~~14/11 - Warhammer @ Club Cultural BULA~~ _(postergado)_
 * 15/11 - Opera IX @ Marquee Session Live
 * 17/11 - John 5 @ Uniclub
 * 20/11 - Saratoga @ El Teatrito
