@@ -13,10 +13,10 @@ tags: agenda
 * ~~11/9 - Celeste @ Club Cultural BULA~~
 * ~~12/9 - Beto Zamarbide @ Groove~~
 * ~~13/9 - Helloween @ Movistar Arena~~
-* 17/9 - Lifelover @ El Teatrito
-* 17/9 - Left To Die @ Uniclub, CABA
-* 18/9 - Left To Die @ Que Sea Rock, Rosario
-* 20/9 - Left To Die @ Casa Babylon Club, Córdoba
+* ~~17/9 - Lifelover @ El Teatrito~~
+* ~~17/9 - Left To Die @ Uniclub, CABA~~
+* ~~18/9 - Left To Die @ Que Sea Rock, Rosario~~
+* ~~20/9 - Left To Die @ Casa Babylon Club, Córdoba~~
 * 24/9 - Old Man's Child @ Uniclub
 * 29/9 - Sonata Arctica @ Teatro Flores
 
@@ -161,6 +161,7 @@ tags: agenda
 
 ENERO 2027
 19/1 - Hellripper @ Uniclub
+29/1 - Urgehal @ Marquee Session Live
 29/1 - Crashdiet @ El Teatrito
 
 FEBRERO 2027
