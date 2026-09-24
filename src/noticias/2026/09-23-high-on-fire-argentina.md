@@ -35,7 +35,7 @@ El artista invitado será **Dios Serpiente**
 
 📆 Sábado 3 de octubre - 19hs  
 📍 Uniclub (Guardia Vieja 3360, CABA)  
-🎫 Entradas anticipadas en [alpogo.com](https://alpogo.com/evento/high-on-fire-unico-show-en-argentina-27242) y en [@tiendanoiseground](https://www.instagram.com/tiendanoiseground/)
+🎫 Entradas anticipadas en [alpogo.com](https://alpogo.com/evento/high-on-fire-unico-show-en-argentina-27242) y en [@tiendanoiseground](https://www.instagram.com/tiendanoiseground/)  
 🔊 Organiza: **Noiseground**
 
 
