@@ -14,7 +14,7 @@ La banda invitada será **AZEROTH**
 
 Las entradas se consiguen en [movistararena.com.ar](https://www.movistararena.com.ar/show/786287a5-70e3-4e74-b74f-ea41e660b274)
 
-📆 Domiengo 13 de septiembre - 19hs  
+📆 Domingo 13 de septiembre - 19hs  
 📍 Movistar Arena (Humboldt 450, CABA)
 
 {% youtube "8wcT6IkMOdw" %}
