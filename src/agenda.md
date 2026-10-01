@@ -1,42 +1,28 @@
 ---
 title: "Agenda internacional"
-date: 2026-01-01
+date: 2026-10-01
 layout: article.njk
 tags: agenda
 ---
 
 <details open>
-<summary>SEPTIEMBRE</summary>
-
-* ~~9/9 - Bloodbath / Nervochaos @ Uniclub~~
-* ~~11/9 - The Haunted @ Uniclub~~
-* ~~11/9 - Celeste @ Club Cultural BULA~~
-* ~~12/9 - Beto Zamarbide @ Groove~~
-* ~~13/9 - Helloween @ Movistar Arena~~
-* ~~17/9 - Lifelover @ El Teatrito~~
-* ~~17/9 - Left To Die @ Uniclub, CABA~~
-* ~~18/9 - Left To Die @ Que Sea Rock, Rosario~~
-* ~~20/9 - Left To Die @ Casa Babylon Club, Córdoba~~
-* 24/9 - Old Man's Child @ Uniclub
-* 29/9 - Sonata Arctica @ Teatro Flores
-
-</details>
-
-<details open>
 <summary>OCTUBRE</summary>
 
 * 3/10 - High On Fire @ Uniclub
+* 4/10 - Sepultura @ Circulo Italiano, Cipolletti, Rio Negro
 * 6/10 - Sepultura @ C Art Media
 * 7/10 - Saturnus @ Club Cultural BULA
 * 13/10 - Amorphis @ El Teatrito
+* 15/10 - Between The Buried and Me @ Uniclub
 * 16/10 - Roy Khan @ El Teatrito
 * 16/10 - Gruesome @ Uniclub
 * 17/10 - Ancestral Malediction @ Gier Music Club
+* 17/10 - Mortiis @ Club Cultural BULA
 * ~~18/10 - After Forever @ Teatro Flores~~ _(cancelado)_
 * 18/10 - Hellbutcher @ Uniclub
 * 20/10 - Iron Maiden @ Huracan
 * 21/10 - Iron Maiden @ Huracan
-* 22/10 - Fit For A King @ El Teatrito
+* ~~22/10 - Fit For A King @ El Teatrito~~ _(postergado)_
 * 22/10 - Apocalyptica @ Groove
 * 22/10 - Alter Bridge @ Groove
 * 22/10 - Zakk Sabbath @ Teatro Flores
@@ -77,6 +63,24 @@ tags: agenda
 </details>
 
 *Anteriores*
+
+<details>
+<summary>SEPTIEMBRE 26</summary>
+
+* ~~9/9 - Bloodbath / Nervochaos @ Uniclub~~
+* ~~11/9 - The Haunted @ Uniclub~~
+* ~~11/9 - Celeste @ Club Cultural BULA~~
+* ~~12/9 - Beto Zamarbide @ Groove~~
+* ~~13/9 - Helloween @ Movistar Arena~~
+* ~~17/9 - Lifelover @ El Teatrito~~
+* ~~17/9 - Left To Die @ Uniclub, CABA~~
+* ~~18/9 - Left To Die @ Que Sea Rock, Rosario~~
+* ~~20/9 - Left To Die @ Casa Babylon Club, Córdoba~~
+* ~~24/9 - Old Man's Child @ Uniclub~~
+* ~~29/9 - Sonata Arctica @ Teatro Flores~~
+
+</details>
+
 
 <details>
 <summary>AGOSTO 26</summary>
@@ -160,6 +164,7 @@ tags: agenda
 
 
 ENERO 2027
+14/1 - Geoff Tate @ Teatro Vorterix
 19/1 - Hellripper @ Uniclub
 29/1 - Urgehal @ Marquee Session Live
 29/1 - Crashdiet @ El Teatrito
