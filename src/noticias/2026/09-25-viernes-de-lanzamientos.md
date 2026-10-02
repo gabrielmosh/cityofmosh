@@ -2,7 +2,7 @@
 title: "Viernes de lanzamientos"
 date: 2026-09-25
 layout: article.njk
-image: "/assets/images/misc/viernes-de-lanzamientos.png"
+image: "/assets/images/news/viernes-de-lanzamientos.png"
 tags: portada
 ---
 
