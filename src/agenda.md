@@ -67,17 +67,17 @@ tags: agenda
 <details>
 <summary>SEPTIEMBRE 26</summary>
 
-* ~~9/9 - Bloodbath / Nervochaos @ Uniclub~~
-* ~~11/9 - The Haunted @ Uniclub~~
-* ~~11/9 - Celeste @ Club Cultural BULA~~
-* ~~12/9 - Beto Zamarbide @ Groove~~
-* ~~13/9 - Helloween @ Movistar Arena~~
-* ~~17/9 - Lifelover @ El Teatrito~~
-* ~~17/9 - Left To Die @ Uniclub, CABA~~
-* ~~18/9 - Left To Die @ Que Sea Rock, Rosario~~
-* ~~20/9 - Left To Die @ Casa Babylon Club, Córdoba~~
-* ~~24/9 - Old Man's Child @ Uniclub~~
-* ~~29/9 - Sonata Arctica @ Teatro Flores~~
+* 9/9 - Bloodbath / Nervochaos @ Uniclub
+* 11/9 - The Haunted @ Uniclub
+* 11/9 - Celeste @ Club Cultural BULA
+* 12/9 - Beto Zamarbide @ Groove
+* 13/9 - Helloween @ Movistar Arena
+* 17/9 - Lifelover @ El Teatrito
+* 17/9 - Left To Die @ Uniclub, CABA
+* 18/9 - Left To Die @ Que Sea Rock, Rosario
+* 20/9 - Left To Die @ Casa Babylon Club, Córdoba
+* 24/9 - Old Man's Child @ Uniclub
+* 29/9 - Sonata Arctica @ Teatro Flores
 
 </details>
 
@@ -85,15 +85,15 @@ tags: agenda
 <details>
 <summary>AGOSTO 26</summary>
 
-* ~~7/8 - Dr Chud's @ Arkham~~
-* ~~13/8 - Squad Bowels @ Gier~~
-* ~~13/8 - Swallow The Sun @ El Teatrito~~
-* ~~16/8 - Pentagram @ Uniclub~~
-* ~~17/8 - Pentagram @ Club Cultural BULA~~
-* ~~22/8 - Angra @ Arena Sur~~
-* ~~22/8 - Undercroft @ Arkham~~
-* ~~25/8 - Memphis May Fire / Blessthefall @ Teatro Flores~~
-* ~~29/8 - Sanctuary @ El Teatrito~~
+* 7/8 - Dr Chud's @ Arkham
+* 13/8 - Squad Bowels @ Gier
+* 13/8 - Swallow The Sun @ El Teatrito
+* 16/8 - Pentagram @ Uniclub
+* 17/8 - Pentagram @ Club Cultural BULA
+* 22/8 - Angra @ Arena Sur
+* 22/8 - Undercroft @ Arkham
+* 25/8 - Memphis May Fire / Blessthefall @ Teatro Flores
+* 29/8 - Sanctuary @ El Teatrito
 
 </details>
 
@@ -101,18 +101,18 @@ tags: agenda
 <details>
 <summary>JULIO 26</summary>
 
-* ~~10/7 - Havok @ The Roxy Live~~
-* ~~14/7 - Liv Kristine @ Marquee Session Live~~
-* ~~14/7 - Pestilence @ Club Cultural BULA~~
-* ~~16/7 - Fear Factory @ Groove~~
-* ~~17/7 - Riot V @ El Teatrito~~
+* 10/7 - Havok @ The Roxy Live
+* 14/7 - Liv Kristine @ Marquee Session Live
+* 14/7 - Pestilence @ Club Cultural BULA
+* 16/7 - Fear Factory @ Groove
+* 17/7 - Riot V @ El Teatrito
 
 </details>
 
 <details>
   <summary>JUNIO 26</summary>
 
-* ~~2/6 - Tygers of Pan Tang @ C. C. BULA~~
+* 2/6 - Tygers of Pan Tang @ C. C. BULA
 
 </details>
 
@@ -120,43 +120,43 @@ tags: agenda
 
   <summary>MAYO 26</summary>
 
-* ~~1/5 - Midnight @ C. C. Bula~~
-* ~~1/5 - Dirkschneider @ Teatro Flores~~
-* ~~3/5 - Bane / Stick To Your Guns @ Uniclub~~
-* ~~9/5 - Nocturnal @ Gier Music Club~~
-* ~~10/5 - Vader @ Marquee Session Live~~
-* ~~10/5 - Korn @ Parque Sarmiento~~
-* ~~17/5 - Draconian @ Teatro Flores~~
-* ~~17/5 - Cult Of Fire @ Uniclub~~
-* ~~22/5 - The Amity Affliction @ Uniclub~~
+* 1/5 - Midnight @ C. C. Bula
+* 1/5 - Dirkschneider @ Teatro Flores
+* 3/5 - Bane / Stick To Your Guns @ Uniclub
+* 9/5 - Nocturnal @ Gier Music Club
+* 10/5 - Vader @ Marquee Session Live
+* 10/5 - Korn @ Parque Sarmiento
+* 17/5 - Draconian @ Teatro Flores
+* 17/5 - Cult Of Fire @ Uniclub
+* 22/5 - The Amity Affliction @ Uniclub
 * ~~26/5 - Drowning Pool @ Teatro Vorterix~~ _(cancelado)_
-* ~~30/5 - Kampfar @ Uniclub~~
+* 30/5 - Kampfar @ Uniclub
 
 </details>
 
 <details>
   <summary>ABRIL 26</summary>
 
-* ~~2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia~~
-* ~~4/4 - Nebiros @ Pana Rock~~
-* ~~16/4 - Primal Fear / Jeriko / Tren Loco @ Teatro Flores~~
-* ~~19/4 - In Flames @ Teatro Flores~~
-* ~~19/4 - Mike Vescera @ Galpón B~~
-* ~~21/4 - Seven Spires @ C. C. BULA~~
-* ~~21/4 - Adrian Smith / Richie Kotzen @ Teatro Flores~~
-* ~~22/4 - Beyond Creation / Fallujah @ Teatro Flores~~
-* ~~22/4 - Bad Religion @ Estadio Malvinas Argentinas~~
-* ~~23/4 - Feuerschwanz @ El Teatrito~~
-* ~~23/4 - Lucifer @ Uniclub~~
-* ~~24/4 - Dream Theater @ Movistar Arena~~
-* ~~24/4 - Disinter @ Gier Music Club~~
-* ~~24/4 - Amaranthe / Visions of Atlantis @ El Teatrito~~
+* 2/4 - Yngwie Malmsteen @ Teatro Gran Rivadavia
+* 4/4 - Nebiros @ Pana Rock
+* 16/4 - Primal Fear / Jeriko / Tren Loco @ Teatro Flores
+* 19/4 - In Flames @ Teatro Flores
+* 19/4 - Mike Vescera @ Galpón B
+* 21/4 - Seven Spires @ C. C. BULA
+* 21/4 - Adrian Smith / Richie Kotzen @ Teatro Flores
+* 22/4 - Beyond Creation / Fallujah @ Teatro Flores
+* 22/4 - Bad Religion @ Estadio Malvinas Argentinas
+* 23/4 - Feuerschwanz @ El Teatrito
+* 23/4 - Lucifer @ Uniclub
+* 24/4 - Dream Theater @ Movistar Arena
+* 24/4 - Disinter @ Gier Music Club
+* 24/4 - Amaranthe / Visions of Atlantis @ El Teatrito
 * ~~25/4 - Rage @ Teatro Flores~~ _(cancelado)_
-* ~~27/4 - Jinjer @ Teatro Flores~~
-* ~~27/4 - Tankard @ El Teatrito~~
-* ~~27/4 - Black Label Society @ Groove~~
-* ~~28/4 - Black Label Society @ Teatro Flores~~
-* ~~30/4 - Megadeth @ Tecnópolis~~
+* 27/4 - Jinjer @ Teatro Flores
+* 27/4 - Tankard @ El Teatrito
+* 27/4 - Black Label Society @ Groove
+* 28/4 - Black Label Society @ Teatro Flores
+* 30/4 - Megadeth @ Tecnópolis
 
 </details>
 <!--
@@ -164,6 +164,7 @@ tags: agenda
 
 
 ENERO 2027
+13/1 - Avatar @ ???
 14/1 - Geoff Tate @ Teatro Vorterix
 19/1 - Hellripper @ Uniclub
 29/1 - Urgehal @ Marquee Session Live

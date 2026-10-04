@@ -1,5 +1,5 @@
 ---
-title: "Falleció Cronos"
+title: "Falleció Cronos, líder de Venom"
 date: 2026-10-01
 layout: article.njk
 image: "/assets/images/news/cronos-qepd.jpg"
