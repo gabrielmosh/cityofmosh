@@ -16,7 +16,7 @@ tags: agenda
 * 15/10 - Between The Buried and Me @ Uniclub
 * 16/10 - Roy Khan @ El Teatrito
 * 16/10 - Gruesome @ Uniclub
-* 17/10 - Ancestral Malediction @ Gier Music Club
+* 17/10 - Ancestral Malediction @ Pana Rock
 * 17/10 - Mortiis @ Club Cultural BULA
 * ~~18/10 - After Forever @ Teatro Flores~~ _(cancelado)_
 * 18/10 - Hellbutcher @ Uniclub
@@ -44,7 +44,7 @@ tags: agenda
 * 17/11 - John 5 @ Uniclub
 * 20/11 - Saratoga @ El Teatrito
 * 25/11 - My Dying Bride @ El Teatrito
-* 28/11 - A Perfect Circle / Puscifer @ Microestadio Malvinas Argentinas
+* 28/11 - A Perfect Circle / Puscifer @ Estadio Malvinas Argentinas
 
 </details>
 
@@ -176,7 +176,11 @@ FEBRERO 2027
 18/2 - Hirax @ Uniclub
 27/2 - Eleine @ El Teatrito
 
+MARZO 2027
+7/3 - Epica / Rhapsody  @ Estadio Malvinas Argentinas
+
 ABRIL 2027
+22/4 - Kanonenfieber @ El Teatrito
 22/4 - Quiet Riot @ Teatro Flores
 25/4 - Floor Jansen @ Teatro Flores
 26/4 - KK's Priest / Tailgunner @ Teatro Flores
