@@ -24,5 +24,5 @@ Será una noche imperdible para los amantes del old school death metal.
 
 📆 Viernes 30 de octubre - 19hs  
 📍 Uniclub (Guardia Vieja 3360, CABA)  
-🎫 Entradas anticipadas en [alpogo.com](https://alpogo.com/evento/benediction-30-octubre-2026-uniclub-22180)  
-🔊 Organiza: **Noiseground**  
+🎫 Entradas anticipadas en [https://alpogo.com/evento/benediction-30-octubre-2026-uniclub-22180](https://alpogo.com/evento/benediction-30-octubre-2026-uniclub-22180) y en **@tiendanoiseground**, **@disembodiedrecords** y **@xelcambiorecords**  
+🔊 Organiza: **Noiseground**   
