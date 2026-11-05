@@ -247,3 +247,21 @@ details[open] summary {
     margin-bottom: 10px;
     border-bottom: 1px solid #333;
 }
+
+.month-divider {
+  /* Esto obliga al separador a ocupar toda la fila horizontal de la grilla */
+  grid-column: 1 / -1; 
+  
+  /* Margen arriba y abajo para crear el espacio visual */
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  
+  /* Opcional: si querés que tenga el texto del mes sutil o una línea con el rojo de tu logo */
+  border-bottom: 1px solid #a82c2a;
+  padding-bottom: 0.5rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  color: #a82c2a;
+  letter-spacing: 1px;
+}
+
