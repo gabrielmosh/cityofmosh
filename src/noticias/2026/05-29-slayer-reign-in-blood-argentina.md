@@ -13,6 +13,7 @@ La mejor banda de thrash de EEUU (tocando **Reign In Blood** entero!), la mejor 
 No lo puedo creer. Si tuviera que armar mi propia fecha, sería así.  
 Me puedo retirar tranquilo después de esto.
 
+Acá están los precios y cuando salen a la venta:
 ![precios](/assets/images/flyers/2026/slayer-movistar2.webp)
 
 Preventa clientes BBVA: a partir del martes 2 de junio 13 hs.  

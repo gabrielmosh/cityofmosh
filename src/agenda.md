@@ -6,7 +6,38 @@ tags: agenda
 ---
 
 <details open>
-<summary>OCTUBRE</summary>
+<summary>NOVIEMBRE</summary>
+
+* 3/11 - Opeth @ Teatro Gran Rivadavia
+* 14/11 - Nocturnal Depression @ Uniclub
+* ~~14/11 - Warhammer @ Club Cultural BULA~~ _(postergado)_
+* 15/11 - Opera IX @ Marquee Session Live
+* 17/11 - John 5 @ Uniclub
+* 20/11 - Saratoga @ El Teatrito
+* 25/11 - My Dying Bride @ El Teatrito
+* 28/11 - A Perfect Circle / Puscifer @ Estadio Malvinas Argentinas
+
+</details>
+
+<details open>
+<summary>DICIEMBRE</summary>
+
+* 1/12 - Testament / Municipal Waste / Immolation @ Teatro Flores
+* 4/12 - Dying Fetus @ El Teatrito
+* 8/12 - Myrath @ Arena Sur
+* 10/12 - Deep Purple @ Movistar Arena
+* 10/12 - Slaughter To Previal @ Groove
+* 14/12 - Slayer / Kreator / Avernal @ Movistar Arena
+* 15/12 - Charlotte Wessels
+* 16/12 - Ellende / Thyrfing @ Uniclub
+* 19/12 - Luciferian @ Club V
+
+</details>
+
+*Anteriores*
+
+<details>
+<summary>OCTUBRE 26</summary>
 
 * 3/10 - High On Fire @ Uniclub
 * 4/10 - Sepultura @ Circulo Italiano, Cipolletti, Rio Negro
@@ -34,35 +65,6 @@ tags: agenda
 
 </details>
 
-<details open>
-<summary>NOVIEMBRE</summary>
-
-* 3/11 - Opeth @ Teatro Gran Rivadavia
-* 14/11 - Nocturnal Depression @ Uniclub
-* ~~14/11 - Warhammer @ Club Cultural BULA~~ _(postergado)_
-* 15/11 - Opera IX @ Marquee Session Live
-* 17/11 - John 5 @ Uniclub
-* 20/11 - Saratoga @ El Teatrito
-* 25/11 - My Dying Bride @ El Teatrito
-* 28/11 - A Perfect Circle / Puscifer @ Estadio Malvinas Argentinas
-
-</details>
-
-<details open>
-<summary>DICIEMBRE</summary>
-
-* 1/12 - Testament / Municipal Waste / Immolation @ Teatro Flores
-* 4/12 - Dying Fetus @ El Teatrito
-* 8/12 - Myrath @ Arena Sur
-* 10/12 - Deep Purple @ Movistar Arena
-* 10/12 - Slaughter To Previal @ Groove
-* 14/12 - Slayer / Kreator / Avernal @ Movistar Arena
-* 16/12 - Ellende / Thyrfing @ Uniclub
-* 19/12 - Luciferian @ Club V
-
-</details>
-
-*Anteriores*
 
 <details>
 <summary>SEPTIEMBRE 26</summary>
@@ -164,9 +166,12 @@ tags: agenda
 
 
 ENERO 2027
+Blaze
 13/1 - Avatar @ ???
 14/1 - Geoff Tate @ Teatro Vorterix
+Rush
 19/1 - Hellripper @ Uniclub
+26/1 - Uli Jon Roth @ El Teatrito
 29/1 - Urgehal @ Marquee Session Live
 29/1 - Crashdiet @ El Teatrito
 
