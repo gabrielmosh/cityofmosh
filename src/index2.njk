@@ -1,0 +1,37 @@
+---
+layout: base.njk
+title: "City of Mosh"
+---
+
+<main class="container">
+<section class="grid">
+
+{% set nombresMeses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"] %}
+{% set currentMonthKey = "" %}
+
+{% for post in collections.portada | reverse %}
+  {% set postYear = post.date.getFullYear() %}
+  {% set postMonthIndex = post.date.getMonth() %}
+  {% set postMonthKey = postYear ~ "-" ~ postMonthIndex %}
+
+  {% if postMonthKey != currentMonthKey %}
+    {% if not loop.first %}
+      <div class="month-divider">
+        <span>{{ nombresMeses[postMonthIndex] }} {{ postYear }}</span>
+      </div>
+    {% endif %}
+    {% set currentMonthKey = postMonthKey %}
+  {% endif %}
+
+  <article class="card">
+    <a href="{{ post.url }}">
+      {% if post.data.image %}
+        <img src="{{ post.data.image }}" alt="{{ post.data.title }}">
+      {% endif %}
+      <h2>{{ post.data.title }}</h2>
+    </a>
+  </article>
+{% endfor %}
+
+</section>
+</main>
