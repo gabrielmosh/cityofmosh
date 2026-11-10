@@ -1,6 +1,6 @@
 ---
 title: "Agenda internacional"
-date: 2026-10-01
+date: 2026-11-01
 layout: article.njk
 tags: agenda
 ---
@@ -12,7 +12,6 @@ tags: agenda
 * 14/11 - Nocturnal Depression @ Uniclub
 * ~~14/11 - Warhammer @ Club Cultural BULA~~ _(postergado)_
 * 15/11 - Opera IX @ Marquee Session Live
-* 17/11 - John 5 @ Uniclub
 * 20/11 - Saratoga @ El Teatrito
 * 25/11 - My Dying Bride @ El Teatrito
 * 28/11 - A Perfect Circle / Puscifer @ Estadio Malvinas Argentinas
@@ -31,6 +30,21 @@ tags: agenda
 * 15/12 - Charlotte Wessels
 * 16/12 - Ellende / Thyrfing @ Uniclub
 * 19/12 - Luciferian @ Club V
+
+</details>
+
+<details open>
+<summary>ENERO 2027</summary>
+
+* 13/1 - Avatar @ Teatro Flores
+* 14/1 - Geoff Tate @ Teatro Vorterix
+* 15/1 - Rush @ Movistar Arena
+* 19/1 - Hellripper @ Uniclub
+* 20/1 - Blaze Bayley @ Centro Gallego, Comodoro Rivadavia
+* 21/1 - Blaze Bayley @ Uniclub
+* 26/1 - Uli Jon Roth @ El Teatrito
+* 29/1 - Urgehal @ Marquee Session Live
+* 29/1 - Crashdiet @ El Teatrito
 
 </details>
 
@@ -165,15 +179,6 @@ tags: agenda
 
 
 
-ENERO 2027
-Blaze
-13/1 - Avatar @ ???
-14/1 - Geoff Tate @ Teatro Vorterix
-Rush
-19/1 - Hellripper @ Uniclub
-26/1 - Uli Jon Roth @ El Teatrito
-29/1 - Urgehal @ Marquee Session Live
-29/1 - Crashdiet @ El Teatrito
 
 FEBRERO 2027
 5/2 - Mortification @ Uniclub
