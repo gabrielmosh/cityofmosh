@@ -22,12 +22,13 @@ tags: agenda
 <summary>DICIEMBRE</summary>
 
 * 1/12 - Testament / Municipal Waste / Immolation @ Teatro Flores
+* 1/12 - Tarja @ Teatro Coliseo
 * 4/12 - Dying Fetus @ El Teatrito
 * 8/12 - Myrath @ Arena Sur
 * 10/12 - Deep Purple @ Movistar Arena
 * 10/12 - Slaughter To Previal @ Groove
 * 14/12 - Slayer / Kreator / Avernal @ Movistar Arena
-* 15/12 - Charlotte Wessels
+* 15/12 - Charlotte Wessels @ El Teatrito
 * 16/12 - Ellende / Thyrfing @ Uniclub
 * 19/12 - Luciferian @ Club V
 
@@ -45,6 +46,18 @@ tags: agenda
 * 26/1 - Uli Jon Roth @ El Teatrito
 * 29/1 - Urgehal @ Marquee Session Live
 * 29/1 - Crashdiet @ El Teatrito
+
+</details>
+
+
+<details>
+<summary>FEBRERO 2027</summary>
+
+* 5/2 - Mortification @ Uniclub
+* 17/2 - Alcest @ Uniclub
+* 18/2 - Hirax @ Uniclub
+* 27/2 - Saor @ C.C. Bula
+* 27/2 - Eleine @ El Teatrito
 
 </details>
 
@@ -180,16 +193,14 @@ tags: agenda
 
 
 
-FEBRERO 2027
-5/2 - Mortification @ Uniclub
-17/2 - Alcest @ Uniclub
-18/2 - Hirax @ Uniclub
-27/2 - Eleine @ El Teatrito
 
 MARZO 2027
 7/3 - Epica / Rhapsody  @ Estadio Malvinas Argentinas
+7/3 - Cavalera @ Teatro Flores
 
 ABRIL 2027
+16/4 - Wildhearts @ Liverpool Club
+19/4 - Hammerfall @ Teatro Flores
 22/4 - Kanonenfieber @ El Teatrito
 22/4 - Quiet Riot @ Teatro Flores
 25/4 - Floor Jansen @ Teatro Flores
@@ -199,7 +210,5 @@ MAYO 2027
 4/5 - Soen?
 4/5 - Rhapsody of Fire / Masterplan @ Uniclub
 
-
-EPICA?
 
 -->
