@@ -1,5 +1,5 @@
 ---
-title: "Cavalera vuelve a Latinoamérica para celebrar Chaos A.D."
+title: "Los hermanos Cavalera celebrarán Chaos A.D."
 date: 2026-11-11
 layout: article.njk
 image: "/assets/images/flyers/2027/cavalera-latinoamerica.jpg"
