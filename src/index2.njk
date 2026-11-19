@@ -10,16 +10,14 @@ title: "City of Mosh"
 {% set currentMonthKey = "" %}
 
 {% for post in collections.portada | reverse %}
-  {% set postYear = post.date.getFullYear() %}
-  {% set postMonthIndex = post.date.getMonth() %}
+  {% set postYear = post.date.getUTCFullYear() %}
+  {% set postMonthIndex = post.date.getUTCMonth() %}
   {% set postMonthKey = postYear ~ "-" ~ postMonthIndex %}
 
   {% if postMonthKey != currentMonthKey %}
-    {% if not loop.first %}
-      <div class="month-divider">
-        <span>{{ nombresMeses[postMonthIndex] }} {{ postYear }}</span>
-      </div>
-    {% endif %}
+    <div class="month-divider">
+      <span>{{ nombresMeses[postMonthIndex] }} {{ postYear }}</span>
+    </div>
     {% set currentMonthKey = postMonthKey %}
   {% endif %}
 
